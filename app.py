@@ -2,7 +2,7 @@ import os
 from datetime import datetime
 import pandas as pd
 import streamlit as st
- st.image("/0F8389B5-950C-4E02-9293-460BEA0D62E0.png")
+st.image("0F8389B5-950C-4E02-9293-460BEA0D62E0.png")
 st.set_page_config(page_title="Order Nhà Hàng", layout="wide")
  
 # Đường dẫn file dữ liệu dùng chung trên máy chủ
